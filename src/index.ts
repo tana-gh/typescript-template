@@ -1,5 +1,5 @@
 import { hello } from './constants'
-import '../assets/sass/style.sass'
+import '../assets/scss/style.scss'
 
 window.addEventListener('DOMContentLoaded', () => {
     const rootElement = document.getElementById('app')
